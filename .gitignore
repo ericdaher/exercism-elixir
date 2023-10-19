@@ -1,0 +1,5 @@
+*/*
+!*/lib
+!*/test
+!*/mix.exs
+!*/README.md
